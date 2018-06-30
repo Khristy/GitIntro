@@ -13,6 +13,7 @@ namespace GitIntro
             Console.Out.WriteLine("Hello Git!");
             Console.ReadLine();
             Console.Out.WriteLine("I'm Git Master!");
+            Console.Out.WriteLine("I'm Git Branch Master!");
             Console.ReadLine();
         }
 
